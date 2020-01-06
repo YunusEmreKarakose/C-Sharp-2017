@@ -1,0 +1,10 @@
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\bin\Debug\MatriceMultiplation.exe.config
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\bin\Debug\MatriceMultiplation.exe
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\bin\Debug\MatriceMultiplation.pdb
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\obj\Debug\MatriceMultiplation.csprojResolveAssemblyReference.cache
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\obj\Debug\MatriceMultiplation.Form1.resources
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\obj\Debug\MatriceMultiplation.Properties.Resources.resources
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\obj\Debug\MatriceMultiplation.csproj.GenerateResource.Cache
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\obj\Debug\MatriceMultiplation.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\obj\Debug\MatriceMultiplation.exe
+C:\Users\EMRE\source\repos\MatriceMultiplation\MatriceMultiplation\obj\Debug\MatriceMultiplation.pdb
