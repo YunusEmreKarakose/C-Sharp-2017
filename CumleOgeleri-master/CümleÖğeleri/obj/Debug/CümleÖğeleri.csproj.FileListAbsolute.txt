@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\bin\Debug\CümleÖğeleri.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\bin\Debug\CümleÖğeleri.exe
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\bin\Debug\CümleÖğeleri.pdb
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\obj\Debug\CümleÖğeleri.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\obj\Debug\CümleÖğeleri.Form1.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\obj\Debug\CümleÖğeleri.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\obj\Debug\CümleÖğeleri.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\obj\Debug\CümleÖğeleri.exe
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\CümleÖğeleri\CümleÖğeleri\obj\Debug\CümleÖğeleri.pdb

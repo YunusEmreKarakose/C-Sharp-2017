@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\bin\Debug\BankUyg.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.Form1.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\bin\Debug\BankUyg.exe
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\bin\Debug\BankUyg.pdb
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.exe
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.pdb
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.islemler.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.paracek.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.İslemsoru.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.parayatır.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.bakiyeSorgu.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\BankUyg\BankUyg\obj\Debug\BankUyg.havale.resources

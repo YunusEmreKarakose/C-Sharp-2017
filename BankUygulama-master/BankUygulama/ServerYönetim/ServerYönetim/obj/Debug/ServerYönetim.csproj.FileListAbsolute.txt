@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\bin\Debug\ServerYönetim.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\obj\Debug\ServerYönetim.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\obj\Debug\ServerYönetim.Form1.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\obj\Debug\ServerYönetim.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\obj\Debug\ServerYönetim.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\bin\Debug\ServerYönetim.exe
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\bin\Debug\ServerYönetim.pdb
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\obj\Debug\ServerYönetim.exe
+C:\Users\Lenovo\Desktop\PROGRAMLAMA\C# DENEME\BankUygulama\ServerYönetim\ServerYönetim\obj\Debug\ServerYönetim.pdb
